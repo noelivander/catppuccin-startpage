@@ -74,9 +74,9 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "calendar",
-              url: "https://calendar.google.com",
-              icon: "calendar-filled",
+              name: "slide",
+              url: "https://docs.google.com/presentation",
+              icon: "slide",
               icon_color: palette.peach,
             },
             {
@@ -92,16 +92,10 @@ const default_configuration = {
               icon_color: palette.blue,
             },
             {
-              name: "slide",
-              url: "https://docs.google.com/presentation",
-              icon: "slide",
-              icon_color: palette.yellow,
-            },
-            {
               name: "drive",
               url: "https://drive.google.com/drive/home",
               icon: "brand-google-drive",
-              icon_color: palette.white,
+              icon_color: palette.mauve,
             },
           ],
         },
