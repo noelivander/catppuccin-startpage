@@ -32,7 +32,7 @@ const default_configuration = {
       d: ["https://duckduckgo.com/?q=", "DuckDuckGo"],
       g: ["https://google.com/search?q=", "Google"],
     },
-    default: "d",
+    default: "g",
   },
   keybindings: {
     "s": "search-bar",
@@ -86,10 +86,22 @@ const default_configuration = {
               icon_color: palette.red,
             },
             {
+              name: "docs",
+              url: "https://docs.google.com/document",
+              icon: "document",
+              icon_color: palette.blue,
+            },
+            {
+              name: "slide",
+              url: "https://docs.google.com/presentation",
+              icon: "slide",
+              icon_color: palette.yellow,
+            },
+            {
               name: "drive",
               url: "https://drive.google.com/drive/home",
               icon: "brand-google-drive",
-              icon_color: palette.blue,
+              icon_color: palette.white,
             },
           ],
         },
