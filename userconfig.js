@@ -140,7 +140,7 @@ const default_configuration = {
       name: "dev",
       background_url: "src/img/banners/banner_07.gif",
       categories: [
-        {
+       {
           name: "development",
           links: [
             {
@@ -150,9 +150,9 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "neptune",
-              url: "https://ui.neptune.ai",
-              icon: "circle-triangle",
+              name: "google colab",
+              url: "https://colab.research.google.com",
+              icon: "brand-google",
               icon_color: palette.peach,
             },
             {
@@ -160,6 +160,18 @@ const default_configuration = {
               url: "https://stackoverflow.com",
               icon: "brand-stackoverflow",
               icon_color: palette.red,
+            },
+            {
+              name: "draw.io",
+              url: "https://app.diagrams.net",
+              icon: "vector-bezier-2",
+              icon_color: palette.blue,
+            },
+            {
+              name: "chatgpt",
+              url: "https://chat.openai.com",
+              icon: "robot",
+              icon_color: palette.mauve,
             },
           ],
         },
@@ -231,9 +243,9 @@ const default_configuration = {
           name: "social media",
           links: [
             {
-              name: "telegram",
-              url: "https://web.telegram.org",
-              icon: "brand-telegram",
+              name: "instagram",
+              url: "https://www.instagram.com",
+              icon: "brand-instagram",
               icon_color: palette.green,
             },
             {
@@ -247,6 +259,18 @@ const default_configuration = {
               url: "https://www.reddit.com/r/unixporn",
               icon: "brand-reddit",
               icon_color: palette.red,
+            },
+            {
+              name: "x",
+              url: "https://x.com",
+              icon: "brand-x",
+              icon_color: palette.blue,
+            },
+            {
+              name: "linkedin",
+              url: "https://www.linkedin.com",
+              icon: "brand-linkedin",
+              icon_color: palette.mauve,
             },
           ],
         },
@@ -301,9 +325,9 @@ const default_configuration = {
               icon_color: palette.red,
             },
             {
-              name: "kyivstar",
-              url: "https://tv.kyivstar.ua",
-              icon: "star-filled",
+              name: "bstation",
+              url: "https://www.bilibili.tv",
+              icon: "video",
               icon_color: palette.blue,
             },
           ],
