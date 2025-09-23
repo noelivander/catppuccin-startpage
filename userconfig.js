@@ -76,7 +76,7 @@ const default_configuration = {
             {
               name: "slide",
               url: "https://docs.google.com/presentation",
-              icon: "slide",
+              icon: "presentation",
               icon_color: palette.peach,
             },
             {
@@ -88,7 +88,7 @@ const default_configuration = {
             {
               name: "docs",
               url: "https://docs.google.com/document",
-              icon: "document",
+              icon: "file-description",
               icon_color: palette.blue,
             },
             {
