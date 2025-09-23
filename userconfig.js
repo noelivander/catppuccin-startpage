@@ -75,7 +75,7 @@ const default_configuration = {
               icon_color: palette.blue,
             },
             {
-              name: "musicForProgramming();",
+              name: "music",
               url: "https://musicforprogramming.net",
               icon: "binary-tree",
               icon_color: palette.mauve,
@@ -244,9 +244,9 @@ const default_configuration = {
               icon_color: palette.peach,
             },
             {
-              name: "smashing magazine",
-              url: "https://www.smashingmagazine.com",
-              icon: "newspaper",
+              name: "a list apart",
+              url: "https://alistapart.com",
+              icon: "columns-3",
               icon_color: palette.red,
             },
             {
@@ -256,7 +256,7 @@ const default_configuration = {
               icon_color: palette.blue,
             },
             {
-              name: "openai blog",
+              name: "openai",
               url: "https://openai.com/research",
               icon: "sparkles",
               icon_color: palette.mauve,
