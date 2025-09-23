@@ -150,7 +150,7 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "google colab",
+              name: "colab",
               url: "https://colab.research.google.com",
               icon: "brand-google",
               icon_color: palette.peach,
