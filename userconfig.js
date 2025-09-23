@@ -65,13 +65,13 @@ const default_configuration = {
             {
               name: "simpel",
               url: "https://simpel.ith.ac.id",
-              icon: "lock",
+              icon: "school",
               icon_color: palette.red,
             },
             {
               name: "siakad",
               url: "https://siakad.ith.ac.id",
-              icon: "school",
+              icon: "certificate",
               icon_color: palette.blue,
             },
             {
