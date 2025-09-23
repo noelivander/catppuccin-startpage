@@ -244,7 +244,7 @@ const default_configuration = {
               icon_color: palette.peach,
             },
             {
-              name: "a list apart",
+              name: "apart",
               url: "https://alistapart.com",
               icon: "columns-3",
               icon_color: palette.red,
