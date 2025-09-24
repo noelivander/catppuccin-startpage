@@ -232,9 +232,9 @@ const default_configuration = {
           name: "resources",
           links: [
             {
-              name: "dev.to",
-              url: "https://dev.to",
-              icon: "brand-github",
+              name: "dicoding",
+              url: "https://www.dicoding.com/articles",
+              icon: "book-open",
               icon_color: palette.green,
             },
             {
@@ -262,7 +262,7 @@ const default_configuration = {
               icon_color: palette.mauve,
             },
           ],
-        },
+        }
       ],
     },
     {
