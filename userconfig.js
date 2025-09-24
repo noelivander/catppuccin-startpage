@@ -234,7 +234,7 @@ const default_configuration = {
             {
               name: "dicoding",
               url: "https://www.dicoding.com/articles",
-              icon: "book-open",
+              icon: "code",
               icon_color: palette.green,
             },
             {
@@ -250,7 +250,7 @@ const default_configuration = {
               icon_color: palette.red,
             },
             {
-              name: "freecodecamp",
+              name: "codecamp",
               url: "https://www.freecodecamp.org/news/",
               icon: "book",
               icon_color: palette.blue,
